@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ali-salim21
 - 👀 I’m interested in Iot / Node.js / Java / fullsatck development
 - 🌱 I’m currently learning javaScipt
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on node.js, Data Structures, startups
 - 📫 How to reach me alialkhatri720 on twitter
 
 <!---
